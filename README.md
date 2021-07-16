@@ -1,4 +1,6 @@
-# TESTE DESENVOLVEDOR RPA Prime Control
+<img src="https://www.primecontrol.com.br/wp-content/uploads/2020/01/Logo-Prime-Control-2020.png" width="250" height="60" /> 
+
+# TESTE DESENVOLVEDOR RPA Prime Control 
 
 ## Parte 1
 ### Utilizando o Robot Framework + Selenium Library:
